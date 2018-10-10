@@ -1,0 +1,16 @@
+{
+  "name": "foosballbot",
+  "version": "1.0.0",
+  "description": "Foosball bot for slack",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jon Jacobsen",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "slackbots": "^1.1.0"
+  }
+}
